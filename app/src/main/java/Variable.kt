@@ -1,12 +1,9 @@
 package com.jp_funda.playground
 
 fun main() {
-    val year: Int = 2023
-    val month = 1
-    val day: Int
-    day = 1
+    var age = 30
+    println(age)
 
-    println(year)
-    println(month)
-    println(day)
+    age = 31
+    println(age)
 }
